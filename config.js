@@ -8,8 +8,8 @@ const CONFIG = {
     btnNo: 'Không, Biến Đi :3',
     question:'Giờ Nhắn Chửi Gì Bé Minh Nghe Đây <3',
     btnReply: 'Gửi Đó Bớt Láo Lại Nghe Chưa <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh rồi 🥰. Thương bé nhiều nhiều 😘😘',
+    reply: 'Bé Tuyết Yêu Bé Minh Nhiều <33333333',
+    mess: 'Biết rồi 🥰. Thương bé nhiều nhiều 😘😘',
     messDesc: 'Cuối Tuần anh dẫn bé đi chơi nha công chúa của tui.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
